@@ -1,0 +1,28 @@
+body{
+	text-align: center !important;
+	/* background-image: url(./cardmapr-KEMb3TSbZBc-unsplash.jpg); */
+}
+
+.cake{
+	margin-top: 50px;
+	font-size: 40px;
+	color: red;
+}
+
+p{
+	margin-top: 50px;
+	font-size: 40px;
+}
+input{
+	text-align: center;
+}
+
+.form-control{
+	border-radius: 20px;
+}
+
+.mssg{
+	margin-top: 5px;
+	margin-bottom: 15px;
+	border-radius: 250px;
+}

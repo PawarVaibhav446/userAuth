@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Yellow Butter",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Red Velvet",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Chiffon",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Dark Chocolate",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Green Vanilla",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake5.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Mix Fruit",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Pineapple",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake7.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Antoiono choco",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./css/images/cake8.jpeg" } } }
+        }
+      }
+    ]
+  }
